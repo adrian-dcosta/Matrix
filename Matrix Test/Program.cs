@@ -65,8 +65,6 @@ namespace Matrix_Test
                         Console.WriteLine("You need enter a value to calculate the area\n\n");
                         Area = 0;
                     }
-
-                    //Console.WriteLine("The Area of {0} is {1}\n", paratype.ShapeType, Area);
                 }
                 else
                 {
